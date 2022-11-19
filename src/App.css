@@ -1,0 +1,22 @@
+p,
+label,
+li,
+button,
+td,
+th {
+  font-family: "Bookmania";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "MrsEavesSmallCaps";
+  color: #58180d;
+  letter-spacing: 1px;
+}
+p{
+  margin: 0;
+}

@@ -1,0 +1,156 @@
+export const CharacterClassNames = {
+    ARTIFICER: "Artificer",
+    BARBARIAN: "Barbarian",
+    BARD: "Bard",
+    CLERIC: "Cleric",
+    DRUID: "Druid",
+    FIGHTER: "Fighter",
+    MONK: "Monk",
+    PALADIN: "Paladin",
+    RANGER: "Ranger",
+    ROGUE: "Rogue",
+    SORCERER: "Sorcerer",
+    WARLOCK: "Warlock",
+    WIZARD: "Wizard"
+}
+export const AbilityType = {
+    STRENGTH: "Strength",
+    DEXTERITY: "Dexterity",
+    CONSTITUTION: "Constitution",
+    INTELLIGENCE: "Intelligence",
+    WISDOM: "Wisdom",
+    CHARISMA: "Charisma"
+};
+export const ItemType = {
+    ARTISAN: "artisan's tool",
+    KIT: "kit",
+    GAMING: "gaming set",
+    INSTRUMENT: "instrument",
+    MELEE: "melee weapon",
+    RANGED: "ranged weapon",
+    ARMOR: "armor",
+    SHIELD: "shield",
+    AMMUNITION: "ammunition",
+    GENERAL: "general"
+}
+export const LanguageNames = {
+    ABYSSAL: "Abyssal",
+    AURAN: "Auran",
+    AQUAN: "Aquan",
+    CELESTIAL: "Celestial",
+    COMMON: "Common",
+    DEEPSPEECH: "Deep Speech",
+    DRACONIC: "Draconic",
+    DRUIDIC: "Druidic",
+    DWARVISH: "Dwarvish",
+    ELVISH: "Elvish",
+    GIANT: "Giant",
+    GNOMISH: "Gnomish",
+    GOBLIN: "Goblin",
+    HALFLING: "Halfling",
+    IGNAN: "Ignan",
+    INFERNAL: "Infernal",
+    ORC: "Orc",
+    PRIMORDIAL: "Primordial",
+    SYLVAN: "Sylvan",
+    TERRAN: "Terran",
+    THIEVES: "Thieves' Cant",
+    UNDERCOMMON: "Undercommon"
+}
+export const CharacterRaces = {
+    DRAGONBORN: "Dragonborn",
+    HILLDWARF: "Dwarf (Hill)",
+    MOUNTAINDWARF: "Dwarf (Mountain)",
+    DROW: "Elf (Drow)",
+    HIGHELF: "Elf (High)",
+    WOODELF: "Elf (Wood)",
+    FORESTGNOME: "Gnome (Forest)",
+    ROCKGNOME: "Gnome (Rock)",
+    HALFELF: "Half-Elf",
+    HALFORC: "Half-Orc",
+    LIGHTFOOTHALFLING: "Halfling (Lightfoot)",
+    STOUTHALFLING: "Halfling (Stout)",
+    HUMAN: "Human",
+    HUMANVARIANT: "Human (Variant)",
+    TIEFLING: "Tiefling"
+}
+export const CharacterSizes = {
+    SMALL: "Small",
+    MEDIUM: "Medium"
+}
+export const Skillnames = {
+    ACROBATICS: "Acrobatics",
+    ANIMALHANDLING: "Animal handling",
+    ARCANA: "Arcana",
+    ATHLETICS: "Athletics",
+    DECEPTION: "Deception",
+    HISTORY: "History",
+    INSIGHT: "Insight",
+    INTIMIDATION: "Intimidation",
+    INVESTIGATION: "Investigation",
+    MEDICINE: "Medicine",
+    NATURE: "Nature",
+    PERCEPTION: "Perception",
+    PERFORMANCE: "Performance",
+    PERSUASION: "Persuasion",
+    RELIGION: "Religion",
+    SLEIGHTOFHAND: "Sleight of hand",
+    STEALTH: "Stealth",
+    SURVIVAL: "Survival"
+};
+export const SkillLevel = {
+    UNSKILLED: 0,
+    HALFPROFICIENT: 1,
+    PROFICIENT: 2,
+    EXPERTISE: 4
+}
+export const SpellSchool = {
+    ABJURATION: "Abjuration",
+    CONJURATION: "Conjuration",
+    DIVINATION: "Divination",
+    ENCHANTMENT: "Enchantment",
+    EVOCATION: "Evocation",
+    ILLUSION: "Illusion",
+    NECROMANCY: "Necromancy",
+    TRANSMUTATION: "Transmutation"
+}
+export const ToolName = {
+    ALCHEMIST: "alchemist's supplies",
+    BREWER: "brewer's supplies",
+    CALLIGRAPHER: "calligrapher's supplies",
+    CARPENTER: "carpenter's tools",
+    CARTOGRAPHER: "cartographer's tools",
+    COBBLER: "cobbler's tools",
+    COOK: "cook's utensils",
+    GLASBLOWER: "glassblower's tools",
+    JEWLER: "jeweler's tools",
+    LEATHERWORKER: "leatherworker's tools",
+    MASON: "mason's tools",
+    PAINTER: "painter's supplies",
+    POTTER: "potter's tools",
+    SMITH: "smith's tools",
+    TINKER: "tinker's tools",
+    WEAVER: "weaver's tools",
+    WOODCARVER: "woodcarver's tools",
+    DICE: "dice set",
+    DRAGONCHESS: "Dragonchess set",
+    CARDS: "playing card set",
+    DRAGONANTE: "Three-Dragon Ante set",
+    BAGPIPES: "bagpipes",
+    DRUM: "drum",
+    DULCIMER: "dulcimer",
+    FLUTE: "flute",
+    LUTE: "lute",
+    LYRE: "lyre",
+    HORN: "horn",
+    PAN: "pan flute",
+    SHAWM: "shawm",
+    VIOL: "viol",
+    DISGUISE: "disguise kit",
+    FORGERY: "forgery kit",
+    HERBALISM: "herbalism kit",
+    NAVIGATOR: "navigator's tools",
+    POISONER: "poisoner's kit",
+    THIEVES: "thieves' tools",
+    VEHICLES: "vehicles (land or sea)"
+}
